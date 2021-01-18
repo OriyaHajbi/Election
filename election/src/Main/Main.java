@@ -1,4 +1,4 @@
-package id313220469_id205481377;
+package Main;
 
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
